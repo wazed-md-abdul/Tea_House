@@ -7,7 +7,7 @@
 A cozy, elegant, and fully responsive landing page for a premium Tea House. This project demonstrates sophisticated layout techniques and a focus on high-quality visual storytelling using modern CSS practices.
 
 ## 🚀 Live Demo
-[View Live Site](https://wazed-md-abdul.github.io/Tea_House/) *(Note: Replace with your actual GitHub Pages link)*
+[View Live Site](https://wazed-md-abdul.github.io/Tea_House/) 
 
 ## ✨ Key Features
 - **Sophisticated Design:** Elegant typography and earthy color palettes tailored for a premium tea brand.
@@ -24,7 +24,7 @@ A cozy, elegant, and fully responsive landing page for a premium Tea House. This
 | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="20"> **Figma** | Source design used for development |
 
 ## 📸 Preview
-![Project Screenshot](./images/preview.png)
+![Project Screenshot(./images/Screenshot_1.png)
 *A visual representation of the elegant Tea House layout.*
 
 ## 📂 Project Structure
