@@ -4,7 +4,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-A cozy, elegant, and fully responsive landing page for a premium Tea House. This project demonstrates sophisticated layout techniques and a focus on high-quality visual storytelling using modern CSS practices.
+A elegant, and fully responsive landing page for a premium Tea House. This project demonstrates sophisticated layout techniques and a focus on high-quality visual storytelling using modern CSS practices.
 
 ## 🚀 Live Demo
 [View Live Site](https://wazed-md-abdul.github.io/Tea_House/) 
