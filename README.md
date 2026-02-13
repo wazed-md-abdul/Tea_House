@@ -25,7 +25,7 @@ A elegant, and fully responsive landing page for a premium Tea House. This proje
 
 ## 📸 Preview
 <img src="./images/Screenshot_1.png" alt="">
-*A visual representation of the elegant Tea House layout.*
+*A visual representation of the elegant Tea House Layout.*
 
 ## 📂 Project Structure
 ```text
